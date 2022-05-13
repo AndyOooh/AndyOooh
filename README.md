@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **andy.oeee@gmail.com**
 
-- ⚡ Fun fact **You can't hunt camels in Arizona and The most common password is "123456"**
+- ⚡ Fun fact **You can't hunt camels in Arizona**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
