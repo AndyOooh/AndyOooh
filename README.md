@@ -5,11 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyoooh" alt="andyoooh" /></a> </p>
 
-- 🌱 I’m currently learning **typescript**
+- 🌱 I’m currently learning **typescript and solidity**
 
 - 📫 How to reach me **andy.oeee@gmail.com**
-
-- ⚡ Fun fact **You can't hunt camels in Arizona**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
