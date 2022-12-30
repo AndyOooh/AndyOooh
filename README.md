@@ -131,6 +131,7 @@
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 
+<br>
 
 <!--readme stats from vercel, set theme (can find mathcing with trophies box) -->
 <span> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andyoooh&show_icons=true&locale=en&layout=compact&hide_border=true&theme=onedark" alt="andyoooh" 
