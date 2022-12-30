@@ -97,7 +97,6 @@
 </div>
 
 
-
 <!--readme stats from vercel, set theme (can find mathcing with trophies box) -->
 <div style='display: flex; flex-direction: column; gap: 2rem'>
 <span> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andyoooh&show_icons=true&locale=en&layout=compact&hide_border=true&theme=onedark" alt="andyoooh" 
