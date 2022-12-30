@@ -1,7 +1,7 @@
 <div align="center" style='color: #272C34; background: linear-gradient(#E3BD43 -30%, #272C34); width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center; gap: 0.5rem'>
 
-<h1 align="center">Hi 👋, I'm Andy O.</h1>
-<h3 align="center" style='margin-bottom: 1rem'>A full stack developer from Denmark.</h3>
+# Hi 👋, I'm Andy O.
+### A full stack developer from Denmark.
 
 <!-- Profile views counter -->
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
@@ -23,12 +23,17 @@
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 <div style='margin: 0 2rem' ><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyoooh&theme=onedark&column=-1" alt="andyoooh" /></a></div>
 
+<br>
+<br>
+
 💬 Ask me about **javascript, react and nodejs**
 
 🌱 I’m currently learning **typescript and solidity**
 
 👨‍💻 My portfolio is available at <a href="https://www.andyo.xyz/" target="_blank" rel="noreferrer" style='color: purple; font-weight: 600'>andyo.xyz</a>
 
+<br>
+<br>
 
 <!-- Languages and tools -->
 <!-- <div style='background: #E3BD43; border-radius: 1rem; padding: 1rem; margin-bottom: 1rem'> -->
@@ -95,6 +100,7 @@
 <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 
 </div>
+
 
 
 <!--readme stats from vercel, set theme (can find mathcing with trophies box) -->
