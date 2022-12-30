@@ -1,22 +1,27 @@
+<div align="center" style='width: 100%; display: flex; flex-direction: column; justify-content: center; align-items: center'>
 <h1 align="center">Hi 👋, I'm Andy O.</h1>
-<h3 align="center">A full stack developer from Denmark.</h3>
+<h3 align="center" style='margin-bottom: 1rem'>A full stack developer from Denmark.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=andyoooh&label=Profile%20views&color=0e75b6&style=flat?" alt="andyoooh" /> </p>
+<div style='margin-bottom: 1rem'>
+<span> <img src="https://komarev.com/ghpvc/?username=andyoooh&label=Profile%20views&color=0e75b6&style=flat?" alt="andyoooh" /> </span>
+<span align="center"> <img src="https://komarev.com/ghpvc/?username=andyoooh&label=Profile%20views&color=0e75b6&style=flat?" alt="andyoooh" /> </span>
+<div style='margin-bottom: 1rem'>
+<h3 >Connect with me:</h3>
+<p>
+<a href="https://twitter.com/lovebun8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lovebun8" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/andreas-oee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-oee" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/andyoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andyoh" height="30" width="40" /></a>
+</div>
+</div>
 
-<p align="right"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyoooh&theme=onedark&column=8&row=2" alt="andyoooh" /></a> </p>
+<div style='text-align: center; width: 100%; margin-bottom: 2rem' align='center' ><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=andyoooh&theme=radical&column=8&row=2" alt="andyoooh" /></a></div>
 
+
+- 💬 Ask me about **javascript, react and nodejs**
 
 - 🌱 I’m currently learning **typescript and solidity**
 
 - 👨‍💻 All of my projects are available at [andyo.xyz](andyo.xyz)
-
-- 💬 Ask me about **javascript, react and nodejs**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/lovebun8" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="lovebun8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/andreas-oee" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-oee" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/andyoh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andyoh" height="30" width="40" /></a>
 
 
 <div style='background: gray; border-radius: 1rem; padding: 1rem; margin-bottom: 1rem'>
@@ -25,8 +30,10 @@
 </div>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=andyoooh&show_icons=true&locale=en&layout=compact&theme=radical" alt="andyoooh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api/top-langs?username=andyoooh&show_icons=true&locale=en&layout=compact&theme=onedark" alt="andyoooh" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=andyoooh&show_icons=true&locale=en&theme=radical" alt="andyoooh" /></p>
+<p><img src="https://github-readme-stats.vercel.app/api?username=andyoooh&show_icons=true&locale=en&theme=radical" alt="andyoooh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&theme=radical" alt="andyoooh" /></p>
+
+</div>
