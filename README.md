@@ -26,6 +26,9 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andyoh" height="30" width="40" />
 </a>
 
+<br>
+<br>
+
 <!-- Trophies, set columns/rows and theme -->
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
 
@@ -42,7 +45,6 @@
 
 👨‍💻 My portfolio is available at [andyo.xyz]("https://www.andyo.xyz/")
 
-<br>
 
 <!-- Languages and tools -->
 <!-- <div style='background: #E3BD43; border-radius: 1rem; padding: 1rem; margin-bottom: 1rem'> -->
