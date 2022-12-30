@@ -6,14 +6,8 @@
 
 <!-- Profile views counter -->
 <!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<div>
-    <span> 
-        <img src="https://komarev.com/ghpvc/?username=andyoooh&label=Profile%20views&color=0e75b6&style=flat?" alt="andyoooh" /> 
-    </span>
-    <span align="center"> 
-        <img src="https://komarev.com/ghpvc/?username=andyoooh&label=Profile%20views&color=0e75b6&style=flat?" alt="andyoooh" /> 
-    </span>
-<div>
+<img src="https://komarev.com/ghpvc/?username=andyoooh&label=Profile%20views&color=0e75b6&style=flat?" alt="andyoooh" /> 
+ 
 
 <!-- Connect -->
 ### Connect with me
@@ -28,6 +22,7 @@
 </a>
 
 <br/>
+<br/>
 
 <!-- Trophies, set columns/rows and theme -->
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
@@ -35,6 +30,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=andyoooh&theme=onedark&column=-1" alt="andyoooh" />
 </a>
 
+<br/>
 <br/>
     
 
@@ -44,6 +40,7 @@
 
 👨‍💻 My portfolio is available at [andyo.xyz]("https://www.andyo.xyz/")
 
+<br/>
 
 <!-- Languages and tools -->
 ### Main Languages and Tools
@@ -63,15 +60,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
 </a> 
 <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> 
+    <img src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png" alt="nextjs" width="40" height="40"/> 
 </a>
 <a href="https://redux.js.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/>
+</a>
 <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
     <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="40" height="40"/> 
 </a>
 <a href="https://expressjs.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> 
+    <img src="https://adware-technologies.s3.amazonaws.com/uploads/technology/thumbnail/20/express-js.png" alt="express" width="40" height="40"/> 
 </a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> 
@@ -130,13 +128,15 @@
     <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" alt="cypress" width="40" height="40"/> </a>
 
 <br/>
+<br/>
+<br/>
 
 <!--readme stats from vercel, set theme (can find mathcing with trophies box) -->
 <span> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andyoooh&show_icons=true&locale=en&layout=compact&hide_border=true&theme=onedark" alt="andyoooh" 
 style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43'
 /></span>
 
-<span><img src="https://github-readme-stats.vercel.app/api?username=andyoooh&show_icons=true&locale=en&count_private=true&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /></span>
+<span><img src="https://github-readme-stats.vercel.app/api?username=andyoooh&show_icons=true&locale=en&count_private=true&hide=issues,contribs&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /></span>
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43'/>
 
