@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Hi 👋, I'm Andy O.
@@ -45,10 +46,17 @@
 
 👨‍💻 My portfolio is available at [andyo.xyz]("https://www.andyo.xyz/")
 
-
+ ```diff
+- text in red
++ text in green
+! text in orange
+# text in gray
+@@ text in purple (and bold)@@
+```
 <!-- Languages and tools -->
 <!-- <div style='background: #E3BD43; border-radius: 1rem; padding: 1rem; margin-bottom: 1rem'> -->
 <!-- <div style='background: linear-gradient(#272C34, #E3BD43); border-radius: 1rem; padding: 1rem; margin-bottom: 1rem'> -->
+    
 ### Main Languages and Tools
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
