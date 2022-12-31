@@ -17,7 +17,7 @@
 <a href="https://linkedin.com/in/andreas-oee" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andreas-oee" height="30" width="40" />
 </a>
-<a href="https://stackoverflow.com/users/andyoh" target="blank">
+<a href="https://stackoverflow.com/users/12930072/andyoh" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="andyoh" height="30" width="40" />
 </a>
 
