@@ -1,12 +1,13 @@
+<!-- Profile views counter -->
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img align='left' src="https://komarev.com/ghpvc/?username=andyoooh&label=Profile%20views&color=0e75b6&style=flat?" alt="andyoooh" />
+
 
 <div align="center">
 
+ 
 # Hi 👋, I'm Andy O.
 ### A full stack developer from Denmark.
-
-<!-- Profile views counter -->
-<!-- https://github.com/antonkomarev/github-profile-views-counter -->
-<img src="https://komarev.com/ghpvc/?username=andyoooh&label=Profile%20views&color=0e75b6&style=flat?" alt="andyoooh" /> 
  
 
 <!-- Connect -->
@@ -38,9 +39,8 @@
 
 🌱 I’m currently learning **typescript and solidity**
 
-👨‍💻 My portfolio is available at [andyo.xyz]("https://www.andyo.xyz/")
+👨‍💻 My portfolio is available at [andyo.xyz](https://www.andyo.xyz/)
 
-<br/>
 
 <!-- Languages and tools -->
 ### Main Languages and Tools
@@ -115,9 +115,6 @@
     <img src="https://bashlogo.com/img/symbol/png/monochrome_light.png" alt="bash" width="40" height="40"/>
 </a>
  
- 
-
-<br/>
 <br/>
 <br/>
 
