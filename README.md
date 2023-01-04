@@ -35,7 +35,7 @@
 <br/>
     
 
-💬 Ask me about **Javascript, React and Node.js**
+💬 Ask me about **Javascript**, **React** and **Node.js**
 
 🌱 I’m currently learning **GraphQL** and **Solidity**
 
