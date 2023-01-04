@@ -37,7 +37,7 @@
 
 💬 Ask me about **javascript, react and nodejs**
 
-🌱 I’m currently learning **GraphQl** and **Solidity**
+🌱 I’m currently learning **GraphQL** and **Solidity**
 
 👨‍💻 My portfolio is available at [andyo.xyz](https://www.andyo.xyz/)
 
