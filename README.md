@@ -37,7 +37,7 @@
 
 💬 Ask me about **Javascript**, **React** and **Node.js**
 
-🌱 I’m currently building with **Turborepo**, **NextJS 13**, **Storybook** and **Forebase cloud functions**
+🌱 I’m currently building with **Turborepo**, **NextJS 13**, **Storybook** and **Firebase**
 
 👨‍💻 My portfolio is available at [andyo.xyz](https://www.andyo.xyz/)
 
