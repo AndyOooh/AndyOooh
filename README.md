@@ -37,7 +37,7 @@
 
 💬 Ask me about **Javascript**, **React** and **Node.js**
 
-🌱 I’m currently learning **GraphQL** and **Solidity**
+🌱 I’m currently building with **Turborepo**, **NextJS 13**, **Storybook** and **Forebase cloud functions**
 
 👨‍💻 My portfolio is available at [andyo.xyz](https://www.andyo.xyz/)
 
@@ -102,9 +102,7 @@
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> 
 </a>
-<a href="https://heroku.com" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> 
-</a>
+
  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
 </a>
