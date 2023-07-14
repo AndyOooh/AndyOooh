@@ -39,7 +39,7 @@
 
 🌱 I’m currently building with **Turborepo**, **NextJS 13**, **Storybook**, **Docker** and **Firebase**
 
-👨‍💻 My portfolio is available at [andyo.xyz](https://www.andyo.site/)
+👨‍💻 My portfolio is available at [andyo.site](https://www.andyo.site/)
 
 
 <!-- Languages and tools -->
