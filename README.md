@@ -120,9 +120,9 @@
 <br/>
 
 <!--readme stats from vercel, set theme (can find mathcing with trophies box) -->
-<span> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andyoooh&show_icons=true&locale=en&layout=compact&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /></span>
+<span> <img src="https://github-readme-stats.vercel.app/api/top-langs?username=andyoooh&show_icons=true&locale=en&layout=compact&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /> </span>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43'/>
+<span>  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43'/> </span>
 
 <!-- <span> <img src="https://github-readme-streak-stats.herokuapp.com?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /> </span> -->
 
