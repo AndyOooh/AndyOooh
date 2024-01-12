@@ -138,6 +138,8 @@ style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43'
 # New
 <span><img src="https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /></span>
 <span><img src="https://github-readme-streak-stats.vercel.app/?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /></span>
+<span><img src="https://github-readme-streak-stats.vercel.app?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /></span>
+<span><img src="https://github-readme-streak-stats.vercel.app/demo?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43' /></span>
 
 <img align="center" src="https://github-readme-streak-stats.vercel.app/api?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43'/>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andyoooh&theme=dayfox&hide_border=true" alt="GitHub Streak" /></a>
