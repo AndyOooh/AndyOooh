@@ -131,7 +131,9 @@ style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43'
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andyoooh)](https://git.io/streak-stats)
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=andyoooh" alt="GitHub Streak" /></a>
-
+<a href="https://git.io/streak-stats"><img src="[https://github-readme-streak-stats.herokuapp.com?user=andyoooh](https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&hide_border=true&theme=onedark)" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&hide_border=true&theme=onedark" alt="GitHub Streak" /></a>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&hide_border=true&theme=onedark" alt="GitHub Streak" />
+https://github-readme-streak-stats.herokuapp.com/?user=andyoooh&hide_border=true&theme=onedark
 
 </div>
