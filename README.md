@@ -24,9 +24,9 @@
 
 <!-- Trophies, set columns/rows and theme -->
 <!-- https://github.com/ryo-ma/github-profile-trophy -->
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=andyoooh&theme=onedark&column=-1" alt="andyoooh" />
-</a>
+
+<img src="https://github-profile-trophy.vercel.app/?username=andyoooh&theme=onedark&column=-1" alt="andyoooh" />
+
 
 <br/>
 <br/>
