@@ -32,9 +32,7 @@
 <br/>
     
 
-💬 Ask me about **Javascript**, **React** and **Node.js**
-
-🌱 I’m currently building with **Turborepo**, **Node.js**, **Next.js**, **Redis** and **Firebase**
+🌱 I’m currently building with **Typescript**, **Node.js**, **Next.js**, **Soldity** and **Foundry**
 
 👨‍💻 My portfolio is available at [andyo.site](https://www.andyo.site/)
 
