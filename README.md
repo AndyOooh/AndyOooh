@@ -13,6 +13,7 @@ Currently building with **Typescript**, **Node.js**, **Next.js**, **Solidity** a
 
 
 <br/>
+<br/>
 
 <!--readme stats from vercel, set theme (can find mathcing with trophies box) -->
 <span>
@@ -20,11 +21,13 @@ Currently building with **Typescript**, **Node.js**, **Next.js**, **Solidity** a
 </span>
 
 <br/>
+<br/>
 
 <span>
   <img align="center" src="https://github-readme-streak-stats-wine-rho.vercel.app?user=andyoooh&hide_border=true&theme=onedark" alt="andyoooh" style='border-radius: 1rem; box-shadow: 0 0 1rem 0.1rem #E3BD43'/>
 </span>
 
+<br/>
 <br/>
 
 <span> 
